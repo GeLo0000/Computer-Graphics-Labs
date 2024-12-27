@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+E:\Cods\Visual Studio\CG_lab_2\main.cpp(176,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Cods\Visual Studio\CG_lab_2\main.cpp(180,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Cods\Visual Studio\CG_lab_2\main.cpp(198,29): warning C4018: '<': signed/unsigned mismatch
+E:\Cods\Visual Studio\CG_lab_2\main.cpp(199,30): warning C4018: '<': signed/unsigned mismatch
+E:\Cods\Visual Studio\CG_lab_2\main.cpp(354,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\Cods\Visual Studio\CG_lab_2\main.cpp(363,48): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\Cods\Visual Studio\CG_lab_2\main.cpp(372,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  CG_lab_2.vcxproj -> E:\Cods\Visual Studio\CG_lab_2\x64\Debug\CG_lab_2.exe
